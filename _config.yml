@@ -16,15 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Site Title"
+direction                : "ltr"
+# "ltr" (default), "rtl" # set the direction of the page
+title                    : "Abir"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+# subtitle                 : "My personal portfolio and blog."
+name                     : "Abir"
+description              : "My personal portfolio and blog."
+url                      : "https://abir-github.io" # the base hostname & protocol for your site
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "abir1o/abir-github.io" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -114,37 +115,31 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Md Aminul Islam Abir"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  # bio              : "I'm passionate about computer science, programming and AI. I am currently a 2nd year undergraduate student at Islamic University of Technology (IUT), Bangladesh."
+  location         : "Bangladesh"
+  # email            : "amiabir012@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:amiabir012@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/abir1o"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-square-x-twitter"
       # url:
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
     - label: "Facebook"
@@ -153,16 +148,16 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+  # since: "2013"
 
 
 # Reading Files
