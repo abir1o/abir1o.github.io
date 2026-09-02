@@ -22,7 +22,8 @@ title                    : "Abir"
 title_separator          : "-"
 # subtitle                 : "My personal portfolio and blog."
 name                     : "Abir"
-description              : "My personal portfolio and blog."
+description              : "Personal site"
+
 url                      : "https://abir1o.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abir1o/abir1o.github.io" # GitHub username/repo-name
@@ -229,7 +230,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Asia/Dhaka"
 
 
 # Pagination with jekyll-paginate
