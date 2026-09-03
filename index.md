@@ -7,7 +7,3 @@ Hello! I'm Md Aminul Islam Abir. I'm passionate about computer science, programm
 
 This site is my personal space where I write about my findings, projects, and general thoughts.
 
-## My Skills
-
-- Programming
-- Web Development
