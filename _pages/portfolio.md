@@ -7,10 +7,8 @@ author_profile: true
 
 Here are some of the projects I've worked on.
 
-## Discretia - An algorithm game 
-<!-- *Placeholder description:* A custom script for analyzing Windows executables on macOS. -->
+- **Discretia (2025)** : A platformer game that teaches sorting algorithm using interactive gameplay. [(github)]((https://github.com/shihabkhan236/Discretia))
+- **Personal Portfolio** : My personal portfolio website. [(github)]((https://github.com/abir1o/abir_portfolio))
 
-## Personal Portfolio
-*Placeholder description:* This website! Built using Jekyll and the Minimal Mistakes theme.
 
 

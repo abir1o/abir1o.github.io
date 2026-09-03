@@ -118,7 +118,7 @@ analytics:
 author:
   name             : "Md Aminul Islam Abir"
   avatar           :  "/assets/images/moon_1.png"
-  # bio              : "I'm passionate about computer science, programming and AI. I am currently a 2nd year undergraduate student at Islamic University of Technology (IUT), Bangladesh."
+  bio              : ""
   location         : "Bangladesh"
   # email            : "amiabir012@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
@@ -145,7 +145,7 @@ footer:
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
     # - label: "Facebook"
     #   icon: "fab fa-fw fa-square-facebook"
-    #   # url:
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/abir1o"

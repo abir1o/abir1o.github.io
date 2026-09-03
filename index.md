@@ -9,6 +9,5 @@ This site is my personal space where I write about my findings, projects, and ge
 
 ## My Skills
 
-- Competitive Programming
-- Machine Learning
+- Programming
 - Web Development
