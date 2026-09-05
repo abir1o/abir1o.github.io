@@ -6,3 +6,6 @@ main:
     url: /blogs/
   - title: "Reading"
     url: /reading/
+  - title: "Beyond"
+    url: /beyond/
+    
